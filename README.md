@@ -1,24 +1,29 @@
-# README
+# Empathy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ユーザーが悩みやコンプレックスを投稿し、その劣等感に共感し合サイト
 
-Things you may want to cover:
+### サイトテーマ
+とにかく、利用しているユーザーが嫌な気分になるのを防ぐような機能を入れたいと思っています。（誹謗中傷のようなコメントは載せられない仕組み等）
 
-* Ruby version
+### テーマを選んだ理由
+現代では、人々はtwitterやinstagramといったSNSを通じて他者の優れた容姿、実績、いいね数などがすぐに確認でき、自分自身の容姿や人生に劣等感を感じている人が多くなっているということを知りました。そこで、ただ自分の悩みやコンプレックスを打ち明けて、他の人が共感してくれるといった機能だけを持つSNSを作りたいと思いました。
 
-* System dependencies
+### ターゲットユーザ
+悩みを打ち解けられない人、また、他の人の悩みに助言をしていきたい、共感したい人々
 
-* Configuration
+### 主な利用シーン
+自分のコンプレックスを、匿名で誰かに共感してもらいたい時
 
-* Database creation
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1iOAbxqP3hsPdMMtnfGEIIjlPlQydTC-VOyulbNRWeuU/edit#gid=0
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
