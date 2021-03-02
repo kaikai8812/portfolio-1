@@ -18,7 +18,7 @@
 ## 設計書
 
 
-## チャレンジ要素一覧
+## 機能要素一覧
 https://docs.google.com/spreadsheets/d/1iOAbxqP3hsPdMMtnfGEIIjlPlQydTC-VOyulbNRWeuU/edit#gid=0
 
 ## 開発環境
