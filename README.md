@@ -18,16 +18,16 @@
 ## 設計書
 
 
-## 機能要素一覧
+### 機能要素一覧
 https://docs.google.com/spreadsheets/d/1iOAbxqP3hsPdMMtnfGEIIjlPlQydTC-VOyulbNRWeuU/edit#gid=0
 
-## ER図
+### ER図
 https://app.diagrams.net/#G1hm3diId7nQ5WVvWgWDC6FzzLzEMwgika
 
-## データベース定義書
+### データベース定義書
 https://docs.google.com/spreadsheets/d/1ux_vSvm1Izjw2dqCJcmCqtSYehtJ2Gbj/edit#gid=739444304
 
-## アプリケーション詳細設計書
+### アプリケーション詳細設計書
 https://docs.google.com/spreadsheets/d/1rYAr8i5oSCKbiv550_3JvXrDTVDXDZ-Q/edit#gid=319211397
 
 
